@@ -1,4 +1,3 @@
 export const config = {
-   
-    api:"http://localhost:8080"
+    api:"https://url-shortner-app-2g7w.onrender.com"
 }
